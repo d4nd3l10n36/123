@@ -1,22 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T06:55:20.503Z" agent="5.0 (Windows)" etag="py0s-bQpoZAt98EfmqxD" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-02T07:41:04.632Z" agent="5.0 (Windows)" etag="zZB1BP05k6ahM2Sd5cLK" version="16.5.2" type="github">
   <diagram id="MZZiDNPvAmZh4_zLiriY" name="Страница 1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X8kj3MZ9UQHhcEZpUCij-1" value="Абитуриент" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="200" y="80" width="190" height="182" as="geometry" />
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.011;entryY=0.226;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" edge="1" parent="1" source="X8kj3MZ9UQHhcEZpUCij-1" target="RlGwpxPMo6qJoZiCxn25-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X8kj3MZ9UQHhcEZpUCij-2" value="Номер телефона абитуриента" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X8kj3MZ9UQHhcEZpUCij-1" vertex="1">
-          <mxGeometry y="26" width="190" height="26" as="geometry" />
+        <mxCell id="X8kj3MZ9UQHhcEZpUCij-1" value="Абитуриент" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="200" y="80" width="190" height="208" as="geometry" />
         </mxCell>
         <mxCell id="X8kj3MZ9UQHhcEZpUCij-4" value="ID абитуриента" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X8kj3MZ9UQHhcEZpUCij-1" vertex="1">
+          <mxGeometry y="26" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X8kj3MZ9UQHhcEZpUCij-2" value="Номер телефона абитуриента" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X8kj3MZ9UQHhcEZpUCij-1" vertex="1">
           <mxGeometry y="52" width="190" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X8kj3MZ9UQHhcEZpUCij-9" value="Аттестат" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X8kj3MZ9UQHhcEZpUCij-1" vertex="1">
           <mxGeometry y="78" width="190" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="X8kj3MZ9UQHhcEZpUCij-15" value="Место жительмтва" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X8kj3MZ9UQHhcEZpUCij-1" vertex="1">
+        <mxCell id="X8kj3MZ9UQHhcEZpUCij-15" value="Место жительства" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X8kj3MZ9UQHhcEZpUCij-1" vertex="1">
           <mxGeometry y="104" width="190" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X8kj3MZ9UQHhcEZpUCij-16" value="Паспорт" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X8kj3MZ9UQHhcEZpUCij-1" vertex="1">
@@ -25,14 +28,83 @@
         <mxCell id="X8kj3MZ9UQHhcEZpUCij-17" value="СНИЛС" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X8kj3MZ9UQHhcEZpUCij-1" vertex="1">
           <mxGeometry y="156" width="190" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-20" value="ФИО" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="X8kj3MZ9UQHhcEZpUCij-1">
+          <mxGeometry y="182" width="190" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="X8kj3MZ9UQHhcEZpUCij-11" value="Аттестат" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="550" y="260" width="140" height="78" as="geometry" />
+          <mxGeometry x="550" y="260" width="190" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-19" value="ID аттестата" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="X8kj3MZ9UQHhcEZpUCij-11">
+          <mxGeometry y="26" width="190" height="32" as="geometry" />
         </mxCell>
         <mxCell id="X8kj3MZ9UQHhcEZpUCij-12" value="Номер аттестата" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X8kj3MZ9UQHhcEZpUCij-11" vertex="1">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
+          <mxGeometry y="58" width="190" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X8kj3MZ9UQHhcEZpUCij-13" value="Дата выдачи " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X8kj3MZ9UQHhcEZpUCij-11" vertex="1">
+          <mxGeometry y="84" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-9" value="Образовательное учреждение" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="X8kj3MZ9UQHhcEZpUCij-11">
+          <mxGeometry y="110" width="190" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-11" value="Балл аттестата" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="X8kj3MZ9UQHhcEZpUCij-11">
+          <mxGeometry y="142" width="190" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="RlGwpxPMo6qJoZiCxn25-1" target="X8kj3MZ9UQHhcEZpUCij-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-1" value="Список абитуриентов" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="140" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-2" value="ID Абитуриента" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-3" value="Балл аттестата" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-1">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-4" value="Место в списке" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-1">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-12" value="ФИО Абитуриента" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-1">
+          <mxGeometry y="104" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-13" value="Вид набора" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-1">
+          <mxGeometry y="130" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-15" value="Работник приемной комиссии" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="490" width="180" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-18" value="ID работника комиссии" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-15">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-16" value="ФИО работника" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-15">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-17" value="Должность " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-15">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-21" value="Паспорт" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-22" value="Серия и номер " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-21">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-24" value="Дата выдачи" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-21">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-25" value="Кем выдан" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-21">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-26" value="Вид набора" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="600" width="140" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-27" value="Основной набор" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-26">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-28" value="Дополните" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RlGwpxPMo6qJoZiCxn25-26">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RlGwpxPMo6qJoZiCxn25-30" value="Дениска " style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="416" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
